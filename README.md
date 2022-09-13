@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngonza27&label=Profile%20views&color=0e75b6&style=flat" alt="ngonza27" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ngonza27](https://github.com/ngonza27)
 
 - 📫 How to reach me **ngonzaa27@gmail.com**
 
